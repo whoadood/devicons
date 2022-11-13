@@ -11,7 +11,6 @@ icons for use
 [![TS](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)]()
 [![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)]()
 [![MaterialUI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg)]()
-[![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg")]()
 [![TailwindCSS](https://user-images.githubusercontent.com/82413454/191466121-51498764-0a54-4aa0-9da4-41e0a92b6578.png)]()
 [![Tanstack-Query](https://user-images.githubusercontent.com/82413454/191467680-fa1fe08e-8ae4-49ff-bdac-2772e2e0d3a7.svg)]()
 [![AstroJS](https://user-images.githubusercontent.com/82413454/193375447-7692e583-a7a9-4ed6-b0e1-581915a1a3be.svg)]()
