@@ -22,3 +22,9 @@ icons for use
 ![mongodb-plain-wordmark](https://user-images.githubusercontent.com/82413454/201538368-f70e2afc-3a79-4409-9baf-034ad8b5b90c.svg)
 ![postgresql-original](https://user-images.githubusercontent.com/82413454/201538373-fa4f1d13-42ab-4bec-8866-e842ab1c073e.svg)
 ![npm-original-wordmark](https://user-images.githubusercontent.com/82413454/201538380-39242308-f3af-4c54-80bb-6a360e5eb71d.svg)
+
+# projects
+![wirdle](https://user-images.githubusercontent.com/82413454/201543794-35896ff5-7d7b-4ffc-9c19-ea8dc8f8fa32.png)
+![toolbelt](https://user-images.githubusercontent.com/82413454/201543799-da68af16-5835-4624-87f1-5dbdb9ede7c9.png)
+![slicewars](https://user-images.githubusercontent.com/82413454/201543802-b8f063d8-cf8f-401c-92af-1b1bb377efa7.png)
+![drmb](https://user-images.githubusercontent.com/82413454/201543806-ab3ee2db-6895-4419-9807-b88f79e1fa71.png)
