@@ -22,12 +22,3 @@ icons for use
 ![mongodb-plain-wordmark](https://user-images.githubusercontent.com/82413454/201538368-f70e2afc-3a79-4409-9baf-034ad8b5b90c.svg)
 ![postgresql-original](https://user-images.githubusercontent.com/82413454/201538373-fa4f1d13-42ab-4bec-8866-e842ab1c073e.svg)
 ![npm-original-wordmark](https://user-images.githubusercontent.com/82413454/201538380-39242308-f3af-4c54-80bb-6a360e5eb71d.svg)
-
-# OTHER
-
-[![Heroku](https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg)]()
-[![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg)]()
-[![Netlify](https://user-images.githubusercontent.com/82413454/191464749-4bd02ee4-030e-494d-a62f-0e5343b6753e.png)]()
-[![Vercel](https://user-images.githubusercontent.com/82413454/191465072-df998bdb-d0ab-4e65-9e36-c8d55af2b122.png)]()
-[![Railway](https://user-images.githubusercontent.com/82413454/194641725-d2422aea-1b39-4d87-870a-59c9685fcdd3.png)]()
-[![Rasperberry Pi](https://user-images.githubusercontent.com/82413454/194675959-d4138a45-23cf-448c-8a34-fbdbe5db214e.svg)]()
