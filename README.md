@@ -23,6 +23,15 @@ icons for use
 ![postgresql-original](https://user-images.githubusercontent.com/82413454/201538373-fa4f1d13-42ab-4bec-8866-e842ab1c073e.svg)
 ![npm-original-wordmark](https://user-images.githubusercontent.com/82413454/201538380-39242308-f3af-4c54-80bb-6a360e5eb71d.svg)
 
+# Other
+
+![github-original-wordmark](https://user-images.githubusercontent.com/82413454/201969093-c5b1269c-dc65-449c-af16-afe7cb022f0a.svg)
+![linkedin-plain](https://user-images.githubusercontent.com/82413454/201969190-3beac470-49f2-4c42-b64e-f0c0f8de360a.svg)
+![twitter-original](https://user-images.githubusercontent.com/82413454/201969301-1b6be556-8079-4fb2-8fc1-ef6bc6c4425d.svg)
+
+
+
+
 # projects
 ![wirdle](https://user-images.githubusercontent.com/82413454/201543794-35896ff5-7d7b-4ffc-9c19-ea8dc8f8fa32.png)
 ![toolbelt](https://user-images.githubusercontent.com/82413454/201543799-da68af16-5835-4624-87f1-5dbdb9ede7c9.png)
